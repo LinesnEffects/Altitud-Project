@@ -1,4 +1,4 @@
-# Proyecto-final-BIT-Webdev-Full-Stack
+# BIT-Webdev-Full-Stack
 
 ## Altitud: comercio virtual de bicicletas y accesorios
 
@@ -9,5 +9,5 @@ Altitud: comercio virtual de bicicletas y accesorios. Este proyecto fue creado u
 - Benjamin Gomez
 
 ## Notas
-Las carpetas node modules fueron removidas antes de subir este proyecto
+Las carpetas node modules fueron removidas antes de subir este proyecto. Trabajando en este momento para tener este proyecto accesible para todos!
 
