@@ -1,13 +1,10 @@
-# BIT-Webdev-Full-Stack
+## Altitud: Cycling and Accessories Ecommerce
 
-## Altitud: comercio virtual de bicicletas y accesorios
+## Description
+Altitud: Cycling and Accessories Ecommerce. This project was created using Angular, Node, Mongo db.
 
-## Descripción
-Altitud: comercio virtual de bicicletas y accesorios. Este proyecto fue creado usando Angular, Node, Mongo db.
-
-## Autor
+## Author
 - Benjamin Gomez
 
-## Notas
-Las carpetas node modules fueron removidas antes de subir este proyecto. Trabajando en este momento para tener este proyecto accesible para todos!
-
+## Notes
+Node module folders were removed before uploading. Currently working to get his project deployed and accessible
