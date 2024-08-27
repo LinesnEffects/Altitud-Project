@@ -5,6 +5,3 @@ Altitud: Cycling and Accessories Ecommerce. This project was created using Angul
 
 ## Author
 - Benjamin Gomez
-
-## Notes
-Node module folders were removed before uploading. Currently working to get his project deployed and accessible
